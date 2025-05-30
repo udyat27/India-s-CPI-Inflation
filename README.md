@@ -25,3 +25,27 @@ Impact of the COVID-19 Pandemic on India's Inflation: Investigate how the beginn
 
 Influence of Global Economic Events on India's Inflation: Analyze how major global economic events, such as fluctuations in imported crude oil prices, have affected India's inflation. This analysis should include the impact on the prices of imported goods in general. For this specific analysis, concentrate solely on the month-on-month fluctuations in imported oil prices for the years 2021 to 2023.
 Identify the trends in price changes across all categories and pinpoint the category whose inflation prices show the strongest correlation with fluctuations in imported oil prices. 
+
+
+India CPI Inflation Final file contains several worksheets providing the insights on above objectives with separate worksheet
+
+**Important Worksheets**
+
+**Introduction worksheet** Contains overall overview of the data
+
+
+**Objective 1 worksheet** contains Which broader Categories has the Highest Contribution toward calculating the CPI.
+
+
+**Objective 2 Worksheet** Trend based on year to year Increase In CPI inflation starting 2017 for the entire basket of products combined.
+
+**Objective 3 Worksheet**  is about investigating the reason behind inflation in November 2023 and analyze for 12 month ending May 23.
+
+**Objective 4 Worksheet** How the onset and progression of the COVID-19 pandemic affected inflation in India.
+
+**Obejctive 5 worksheet** Investigating how major global economic events (like imported crude oil price fluctuations) have influenced India's inflation.
+
+
+
+
+
