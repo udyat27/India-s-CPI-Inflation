@@ -1,4 +1,4 @@
-# India-s-CPI-Inflation
+# India-CPI-Inflation
 
 **Objective 1**
 
